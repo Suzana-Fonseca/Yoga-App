@@ -12,7 +12,6 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Criação de CSS
 - [ ] Criação de JavaScript
 
-
 ## 🤝 Colaboradores
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
